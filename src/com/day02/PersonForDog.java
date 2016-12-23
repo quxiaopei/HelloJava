@@ -12,4 +12,5 @@ public PersonForDog(String name, int age, Dog dog) {
 	this.age = age;
 	this.dog = dog;
 }
+
 }
