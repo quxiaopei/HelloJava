@@ -24,4 +24,40 @@ public class Goods {
 		this.goodsImg = goodsImg;
 		this.addTime = addTime;
 	}
+	public long getGoodsId() {
+		return goodsId;
+	}
+	public void setGoodsId(long goodsId) {
+		this.goodsId = goodsId;
+	}
+	public String getGoodsName() {
+		return goodsName;
+	}
+	public void setGoodsName(String goodsName) {
+		this.goodsName = goodsName;
+	}
+	public String getGoodsEnglishName() {
+		return goodsEnglishName;
+	}
+	public void setGoodsEnglishName(String goodsEnglishName) {
+		this.goodsEnglishName = goodsEnglishName;
+	}
+	public String getGoodsThumb() {
+		return goodsThumb;
+	}
+	public void setGoodsThumb(String goodsThumb) {
+		this.goodsThumb = goodsThumb;
+	}
+	public String getGoodsImg() {
+		return goodsImg;
+	}
+	public void setGoodsImg(String goodsImg) {
+		this.goodsImg = goodsImg;
+	}
+	public long getAddTime() {
+		return addTime;
+	}
+	public void setAddTime(long addTime) {
+		this.addTime = addTime;
+	}
 }
